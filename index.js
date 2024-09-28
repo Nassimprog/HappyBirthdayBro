@@ -1,6 +1,6 @@
 
 document.addEventListener('DOMContentLoaded', () => {
-    const message = "Happy Birthday, [Friend's Name]!";
+    const message = "Happy Birthday, Kyle!";
     const element = document.querySelector('.happy-birthday h1');
     let i = 0;
 
